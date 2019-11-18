@@ -7,9 +7,9 @@
 
 | № ЛР          | Статус выполнения |
 |:-------------:|:-----------------:|
-| 1             | :heavy_check_mark: |
-| 2             | :heavy_check_mark: |
-| 3             | :heavy_check_mark: |
+| 1             | :envelope_with_arrow: |
+| 2             | :envelope_with_arrow: |
+| 3             | :arrows_counterclockwise: |
 | 4             | :arrows_counterclockwise:                  |
 | 5             |  :arrows_counterclockwise:                 |
 | 6             |   :arrows_counterclockwise:                |
