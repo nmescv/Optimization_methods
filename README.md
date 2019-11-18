@@ -17,5 +17,9 @@
 
 
 :heavy_check_mark: - принято
+
+:envelope_with_arrow: - отправлен отчёт
+
 :warning: - не принято, исправить
+
 :arrows_counterclockwise: - в процессе
