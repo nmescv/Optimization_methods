@@ -13,7 +13,7 @@
 | 4             | :arrows_counterclockwise:                  |
 | 5             |  :arrows_counterclockwise:                 |
 | 6             |   :arrows_counterclockwise:                |
-| 7             |  :stop:                 |
+| 7             |  :no_good:                |
 
 
 :heavy_check_mark: - принято
@@ -24,4 +24,4 @@
 
 :arrows_counterclockwise: - в процессе
 
-:stop: - не требует выполнения
+:no_good: - не требует выполнения
