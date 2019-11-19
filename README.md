@@ -9,11 +9,11 @@
 |:-------------:|:-----------------:|
 | 1             | :envelope_with_arrow: |
 | 2             | :envelope_with_arrow: |
-| 3             | :arrows_counterclockwise: |
+| 3             | :envelope_with_arrow: |
 | 4             | :arrows_counterclockwise:                  |
 | 5             |  :arrows_counterclockwise:                 |
 | 6             |   :arrows_counterclockwise:                |
-| 7             |  :arrows_counterclockwise:                 |
+| 7             |  :stop:                 |
 
 
 :heavy_check_mark: - принято
@@ -23,3 +23,5 @@
 :warning: - не принято, исправить
 
 :arrows_counterclockwise: - в процессе
+
+:stop: - не требует выполнения
