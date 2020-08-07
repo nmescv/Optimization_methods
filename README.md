@@ -8,8 +8,8 @@
 | № ЛР          | Статус выполнения |
 |:-------------:|:-----------------:|
 | 1             | :heavy_check_mark: |
-| 2             | :heavy_check_mark  |
-| 3             | ::heavy_check_mark |
+| 2             | :heavy_check_mark:  |
+| 3             | :heavy_check_mark: |
 | 4             | :heavy_check_mark:                    |
 | 5             |  :warning:                 |
 | 6             |   :arrows_counterclockwise:                |
