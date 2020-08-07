@@ -7,11 +7,11 @@
 
 | № ЛР          | Статус выполнения |
 |:-------------:|:-----------------:|
-| 1             | :envelope_with_arrow: |
-| 2             | :envelope_with_arrow: |
-| 3             | :envelope_with_arrow: |
-| 4             | :arrows_counterclockwise:                  |
-| 5             |  :arrows_counterclockwise:                 |
+| 1             | :heavy_check_mark: |
+| 2             | :heavy_check_mark  |
+| 3             | ::heavy_check_mark |
+| 4             | :heavy_check_mark:                    |
+| 5             |  :warning:                 |
 | 6             |   :arrows_counterclockwise:                |
 | 7             |  :no_good:                |
 
